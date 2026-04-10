@@ -98,8 +98,3 @@ nagarsetu-admin/
 - Predictive maintenance insights via **IoT sensors**  
 
 ---
-
-## 👨‍💻 Contributors
-
-- **Maheen Meshram** – Developer & Project Lead  
-- **SmartTech Club, SIT Nagpur** – Technical Support  
